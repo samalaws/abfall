@@ -27,7 +27,7 @@ export default function Footer() {
             </svg>
           </a>
           <a
-            href="#"
+            href="https://www.linkedin.com/in/samer-alaws/"
             className="text-gray-400 hover:text-white">
             <span className="sr-only">
               LinkedIn
@@ -40,16 +40,13 @@ export default function Footer() {
             </svg>
           </a>
           <a
-            href="#"
+            href="https://x.com/SamerAlaws"
             className="text-gray-400 hover:text-white">
             <span className="sr-only">
               Twitter
             </span>
-            <svg
-              className="h-6 w-6"
-              fill="currentColor"
-              viewBox="0 0 24 24">
-              <path d="M22.46 6c-.77.35-1.6.58-2.46.69.89-.53 1.56-1.36 1.88-2.35-.83.49-1.74.85-2.71 1.04a4.31 4.31 0 0 0-7.35 3.93C7.69 8.59 4.07 6.85 1.64 4.15c-.92 1.58-.46 3.63 1.14 4.68a4.28 4.28 0 0 1-1.95-.54v.05c0 2.01 1.4 3.7 3.28 4.09-.62.17-1.27.2-1.93.07.54 1.69 2.1 2.92 3.95 2.96a8.64 8.64 0 0 1-5.35 1.85c-.35 0-.7-.02-1.04-.06A12.17 12.17 0 0 0 8.46 19c8.03 0 12.42-6.7 12.42-12.5 0-.19-.01-.38-.02-.57.85-.61 1.6-1.37 2.18-2.24z" />
+            <svg className="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M22.46 2H18.17l-6.09 8.53L5.83 2H1.54l7.78 10.89L1.05 22h4.29l5.71-7.91L16.76 22h4.19l-8.27-9.43L22.46 2z" />
             </svg>
           </a>
         </div>

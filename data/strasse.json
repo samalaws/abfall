@@ -1,0 +1,3032 @@
+[
+  {
+      "id": "0",
+      "street": "Aachener Straße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "1",
+      "street": "Adalbert-Stifter-Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "2",
+      "street": "Ahornweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "3",
+      "street": "Ahrstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "4",
+      "street": "Akazienweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "5",
+      "street": "Albert-Jansen-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "6",
+      "street": "Albrecht-Dürer-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "7",
+      "street": "Aldenhovener Straße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "8",
+      "street": "Alleebusch",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "9",
+      "street": "Alte Haihover Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "10",
+      "street": "Alte Kuhgracht",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "11",
+      "street": "Alte Landstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "12",
+      "street": "Alte Poststraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "13",
+      "street": "Am alten Sportplatz",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "14",
+      "street": "Am alten Wasserwerk",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "15",
+      "street": "Am Bürgerhaus",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "16",
+      "street": "Am Dorfplatz",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "17",
+      "street": "Am Dorfteich",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "18",
+      "street": "Am Dreieck",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "19",
+      "street": "Am Elsenbusch",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "20",
+      "street": "Am End",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "21",
+      "street": "Am Feldkreuz",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "22",
+      "street": "Am Fließ",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "23",
+      "street": "Am Forsthaus",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "24",
+      "street": "Am Friedhof",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "25",
+      "street": "Am Fuchsberg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "26",
+      "street": "Am Hagelkreuz",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "27",
+      "street": "Am Hallenberg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "28",
+      "street": "Am Heidberg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "29",
+      "street": "Am Kaninsberg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "30",
+      "street": "Am Kirchberg",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "31",
+      "street": "Am Kreuz",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "32",
+      "street": "Am Lamersberg",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "33",
+      "street": "Am Lehnhof",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "34",
+      "street": "Am Leiffarther Hof",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "35",
+      "street": "Am Mausberg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "36",
+      "street": "Am Mühlenhof",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "37",
+      "street": "Am Mühlenkamp",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "38",
+      "street": "Am Pannhaus",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "39",
+      "street": "Am Park",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "40",
+      "street": "Am Pöllenweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "41",
+      "street": "Am Pulverbusch",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "42",
+      "street": "Am Reuschenberger Hof",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "43",
+      "street": "Am Ringofen",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "44",
+      "street": "Am Rodebach",
+      "BZ": "1",
+      "AP": "null"
+  },
+  {
+      "id": "45",
+      "street": "Am Sonnenhügel",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "46",
+      "street": "Am Stadion",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "47",
+      "street": "Am Tripser Wäldchen",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "48",
+      "street": "Am Wachbaum",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "49",
+      "street": "Am Weiher",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "50",
+      "street": "Am Weinberg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "51",
+      "street": "Am Wiesenhang",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "52",
+      "street": "Am Zinneberg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "53",
+      "street": "Amselweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "54",
+      "street": "An den Schloßwiesen",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "55",
+      "street": "An der alten Schule",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "56",
+      "street": "An der Burg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "57",
+      "street": "An der Friedensburg",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "58",
+      "street": "An der Linde",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "59",
+      "street": "An der Maibuche",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "60",
+      "street": "An der Vikarie",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "61",
+      "street": "An der Vogelstange",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "62",
+      "street": "An Frankenruh",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "63",
+      "street": "An Fürthenrode",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "64",
+      "street": "An Kellers Hof",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "65",
+      "street": "An Merckenheim",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "66",
+      "street": "An St. Johann",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "67",
+      "street": "An St. Marien",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "68",
+      "street": "Anemonenweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "69",
+      "street": "Annastraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "70",
+      "street": "Apweilerstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "71",
+      "street": "Ardennenstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "72",
+      "street": "Arndtstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "73",
+      "street": "Asternweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "74",
+      "street": "Auf dem Göss",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "75",
+      "street": "Auf dem Jück",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "76",
+      "street": "Auf dem Knipp",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "77",
+      "street": "Auf dem Tecker",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "78",
+      "street": "Auf der Weide",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "79",
+      "street": "Auf der Zömm",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "80",
+      "street": "Auf'm Brunk",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "81",
+      "street": "August-Thyssen-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "82",
+      "street": "Bachstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "83",
+      "street": "Bahnhofstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "84",
+      "street": "Bauchemer Gracht",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "85",
+      "street": "Beamtenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "86",
+      "street": "Beckstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "87",
+      "street": "Beethovenstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "88",
+      "street": "Beggendorfer Straße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "89",
+      "street": "Benzstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "90",
+      "street": "Bergerfeld",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "91",
+      "street": "Bergstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "92",
+      "street": "Berliner Ring",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "93",
+      "street": "Besenbindergasse",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "94",
+      "street": "Bienengracht",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "95",
+      "street": "Birgdener Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "96",
+      "street": "Birkenweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "97",
+      "street": "Bischof-Pooten-Straße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "98",
+      "street": "Blasiusstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "99",
+      "street": "Blockstraße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "100",
+      "street": "Blumenstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "101",
+      "street": "Bocket",
+      "BZ": "1",
+      "AP": "null"
+  },
+  {
+      "id": "102",
+      "street": "Bocketzgracht",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "103",
+      "street": "Boelckestraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "104",
+      "street": "Bolleber",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "105",
+      "street": "Borsigstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "106",
+      "street": "Brabantstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "107",
+      "street": "Brachelener Straße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "108",
+      "street": "Brahmsstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "109",
+      "street": "Brechtstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "110",
+      "street": "Bredriesch",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "111",
+      "street": "Breill",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "112",
+      "street": "Breslauer Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "113",
+      "street": "Brückenstraße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "114",
+      "street": "Brucknerstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "115",
+      "street": "Brüggerhof",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "116",
+      "street": "Brüllsche Straße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "117",
+      "street": "Brunnenstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "118",
+      "street": "Buchenweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "119",
+      "street": "Bückengracht",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "120",
+      "street": "Burgunderweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "121",
+      "street": "Buschweg",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "122",
+      "street": "Camphausenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "123",
+      "street": "Carl-Diem-Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "124",
+      "street": "Chorherrenstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "125",
+      "street": "Corneliusstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "126",
+      "street": "Curt - Götz Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "127",
+      "street": "Dahlienweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "128",
+      "street": "Daimlerstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "129",
+      "street": "Dammweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "130",
+      "street": "Dantestraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "131",
+      "street": "Danziger Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "132",
+      "street": "Dechant-Kloubert-Weg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "133",
+      "street": "Diekensweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "134",
+      "street": "Dieselstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "135",
+      "street": "Dietrichstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "136",
+      "street": "Dohlenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "137",
+      "street": "Drosselweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "138",
+      "street": "Dürener Straße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "139",
+      "street": "Eburonenstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "140",
+      "street": "Ederener Straße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "141",
+      "street": "Eduard - Mörike Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "142",
+      "street": "Eichendorffstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "143",
+      "street": "Eichenthal",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "144",
+      "street": "Einsteinstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "145",
+      "street": "Eiseder Hof",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "146",
+      "street": "Elsternweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "147",
+      "street": "Emesfeld",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "148",
+      "street": "Emesfelder Hof",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "149",
+      "street": "Emscherstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "150",
+      "street": "Erftstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "151",
+      "street": "Erich-Kästner-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "152",
+      "street": "Erlenweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "153",
+      "street": "Fahrposterweg",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "154",
+      "street": "Falkenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "155",
+      "street": "Fasanenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "156",
+      "street": "Feigengasse",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "157",
+      "street": "Feldstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "158",
+      "street": "Finkenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "159",
+      "street": "Flahstraß",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "160",
+      "street": "Flandernstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "161",
+      "street": "Fliederweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "162",
+      "street": "Flovericher Straße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "163",
+      "street": "Flurstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "164",
+      "street": "Frankenstraße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "165",
+      "street": "Franz-Eifler-Weg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "166",
+      "street": "Franz-Kafka-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "167",
+      "street": "Franz-Marc-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "168",
+      "street": "Franzstraße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "169",
+      "street": "Frelenberger Weg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "170",
+      "street": "Friedensstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "171",
+      "street": "Friedlandplatz",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "172",
+      "street": "Friedrich-Krupp-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "173",
+      "street": "Friedrich-Löffler-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "174",
+      "street": "Gartenstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "175",
+      "street": "Geilenkirchener Kreisbahn",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "176",
+      "street": "Geldernstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "177",
+      "street": "Gemeindeberg",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "178",
+      "street": "Gerbergasse",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "179",
+      "street": "Gereonstraße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "180",
+      "street": "Gereonsweilerstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "181",
+      "street": "Gerhard-Schümmer-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "182",
+      "street": "Gerhart-Hauptmann-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "183",
+      "street": "Gillesweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "184",
+      "street": "Gillrather Straße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "185",
+      "street": "Gladiolenweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "186",
+      "street": "Gneisenaustraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "187",
+      "street": "Goethestraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "188",
+      "street": "Gotzenstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "189",
+      "street": "Graf-Goltstein-Straße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "190",
+      "street": "Grenzweg",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "191",
+      "street": "Große Gasse",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "192",
+      "street": "Grünstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "193",
+      "street": "Gut Bergerhof",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "194",
+      "street": "Gut Loherhof",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "195",
+      "street": "Gut Marienhof",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "196",
+      "street": "Gut Muthagen",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "197",
+      "street": "Gut Neuenhof",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "198",
+      "street": "Gut Neutichelen",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "199",
+      "street": "Gut Tichelen",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "200",
+      "street": "Gut Trips",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "201",
+      "street": "Gutenbergstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "202",
+      "street": "Hahnrather Busch",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "203",
+      "street": "Hahnweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "204",
+      "street": "Haihover Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "205",
+      "street": "Händelstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "206",
+      "street": "Hangstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "207",
+      "street": "Hansemannstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "208",
+      "street": "Hartbaumpfad",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "209",
+      "street": "Hasselter Straße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "210",
+      "street": "Hatterather Weg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "211",
+      "street": "Hattostraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "212",
+      "street": "Haus Beeck",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "213",
+      "street": "Haus Immendorf",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "214",
+      "street": "Hegelstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "215",
+      "street": "Heidweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "216",
+      "street": "Heinestraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "217",
+      "street": "Heinrich-Zille-Weg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "218",
+      "street": "Heinsberger Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "219",
+      "street": "Hensenstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "220",
+      "street": "Herderstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "221",
+      "street": "Hermann-Josef-Straße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "222",
+      "street": "Hermann-Löns-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "223",
+      "street": "Herrweg",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "224",
+      "street": "Herzog-Wilhelm-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "225",
+      "street": "Heyergäßchen",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "226",
+      "street": "Hinter dem Gang",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "227",
+      "street": "Hinter den Höfen",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "228",
+      "street": "Hochheid",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "229",
+      "street": "Hochstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "230",
+      "street": "Hofstraße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "231",
+      "street": "Holbeinstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "232",
+      "street": "Hölderlinstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "233",
+      "street": "Holzmarkt",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "234",
+      "street": "Hommer Heide",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "235",
+      "street": "Hommerschen",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "236",
+      "street": "Honsdorf",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "237",
+      "street": "Horrig",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "238",
+      "street": "Horriger Acker",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "239",
+      "street": "Horriger Weg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "240",
+      "street": "Hoven",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "241",
+      "street": "Hubertusstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "242",
+      "street": "Hückelhovener Straße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "243",
+      "street": "Hunisweg",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "244",
+      "street": "Hünshovener Busch",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "245",
+      "street": "Hünshovener Gracht",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "246",
+      "street": "Ikarusweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "247",
+      "street": "Im Bongert",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "248",
+      "street": "Im Bruch",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "249",
+      "street": "Im Feldchen",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "250",
+      "street": "Im Gang",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "251",
+      "street": "Im Hufeisen",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "252",
+      "street": "Im Kämpchen",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "253",
+      "street": "Im Kuhkamp",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "254",
+      "street": "Im Lindenfeld",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "255",
+      "street": "Im Sandberg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "256",
+      "street": "Im Südkamp",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "257",
+      "street": "Im Tiefenkamp",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "258",
+      "street": "Im Viereck",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "259",
+      "street": "Im Wiesengrund",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "260",
+      "street": "Im Winkel",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "261",
+      "street": "Immendorfer Weg",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "262",
+      "street": "Immenweg",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "263",
+      "street": "In der Au",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "264",
+      "street": "In der Kummet",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "265",
+      "street": "Inselweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "266",
+      "street": "Jahnstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "267",
+      "street": "Jan-Von-Werth-Straße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "268",
+      "street": "Johannesstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "269",
+      "street": "Johann-Plum-Platz",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "270",
+      "street": "Josef-von-Görres-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "271",
+      "street": "Josefstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "272",
+      "street": "Juliane-Hilgers-Straße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "273",
+      "street": "Jülicher Straße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "274",
+      "street": "Junkersstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "275",
+      "street": "Kampstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "276",
+      "street": "Kantstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "277",
+      "street": "Kapellenweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "278",
+      "street": "Karl-Arnold-Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "279",
+      "street": "Karolingerstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "280",
+      "street": "Kastanienweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "281",
+      "street": "Keltenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "282",
+      "street": "Kiebitzweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "283",
+      "street": "Kirchstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "284",
+      "street": "Kirchwinkel",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "285",
+      "street": "Klatterstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "286",
+      "street": "Kleinsiersdorf",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "287",
+      "street": "Klosterstraße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "288",
+      "street": "Kogenbroich",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "289",
+      "street": "Kolpingweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "290",
+      "street": "Königsberger Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "291",
+      "street": "Königshof",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "292",
+      "street": "Königstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "293",
+      "street": "Konrad-Adenauer-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "294",
+      "street": "Kornhausweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "295",
+      "street": "Krahestraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "296",
+      "street": "Kraudorf",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "297",
+      "street": "Kreisbahnstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "298",
+      "street": "Kreuzstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "299",
+      "street": "Kreywäldchen",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "300",
+      "street": "Küfenweg",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "301",
+      "street": "Kuhkampsweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "302",
+      "street": "Kuzgräet",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "303",
+      "street": "Lahnstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "304",
+      "street": "Landstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "305",
+      "street": "Langgasse",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "306",
+      "street": "Lärchenweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "307",
+      "street": "Laubenweg",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "308",
+      "street": "Leerodt",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "309",
+      "street": "Leiffarther Straße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "310",
+      "street": "Leopold-Hoesch-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "311",
+      "street": "Lessingstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "312",
+      "street": "Lilienthalallee",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "313",
+      "street": "Limburgstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "314",
+      "street": "Limitenweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "315",
+      "street": "Linderner Bahn",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "316",
+      "street": "Linderner Straße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "317",
+      "street": "Linnicher Straße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "318",
+      "street": "Lisztstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "319",
+      "street": "Lise-Meitner-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "320",
+      "street": "Loherhof",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "321",
+      "street": "Lohfelder Hof",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "322",
+      "street": "Ludwig-Richter-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "323",
+      "street": "Lütticher Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "324",
+      "street": "Luxemburgstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "325",
+      "street": "Maarstraße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "326",
+      "street": "Mainstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "327",
+      "street": "Marienhof",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "328",
+      "street": "Marienstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "329",
+      "street": "Markt",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "330",
+      "street": "Markusstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "331",
+      "street": "Martin-Heyden-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "332",
+      "street": "Martinusstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "333",
+      "street": "Max-Planck-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "334",
+      "street": "Meisenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "335",
+      "street": "Meroderhofstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "336",
+      "street": "Merowingerstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "337",
+      "street": "Möldersstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "338",
+      "street": "Moselstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "339",
+      "street": "Mozartstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "340",
+      "street": "Mühlenstraße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "341",
+      "street": "Müllendorfer Straße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "342",
+      "street": "Müncherath",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "343",
+      "street": "Müncherather Straße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "344",
+      "street": "Nachtigallenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "345",
+      "street": "Nahestraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "346",
+      "street": "Namurstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "347",
+      "street": "Narzissenweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "348",
+      "street": "Neckarstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "349",
+      "street": "Nelkenweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "350",
+      "street": "Neue Linner",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "351",
+      "street": "Neuenhof",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "352",
+      "street": "Neuer Kahrweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "353",
+      "street": "Neutichelen",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "354",
+      "street": "Niederheider Weg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "355",
+      "street": "Niederrheinstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "356",
+      "street": "Nierstraßer Weg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "357",
+      "street": "Nikolaus-Becker-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "358",
+      "street": "Nirm",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "359",
+      "street": "Nonnfelder Hof",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "360",
+      "street": "Norbertinerstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "361",
+      "street": "Oberste Hof",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "362",
+      "street": "Opheimer Benden",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "363",
+      "street": "Orffstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "364",
+      "street": "Ottostraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "365",
+      "street": "Palantgasse",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "366",
+      "street": "Panneschopp",
+      "BZ": "1",
+      "AP": "null"
+  },
+  {
+      "id": "367",
+      "street": "Panneschopper Weg",
+      "BZ": "1",
+      "AP": "null"
+  },
+  {
+      "id": "368",
+      "street": "Pappelweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "369",
+      "street": "Pastoratsweg",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "370",
+      "street": "Pastor-Pauli-Straße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "371",
+      "street": "Pater-Briers-Weg",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "372",
+      "street": "Pater-Esser-Weg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "373",
+      "street": "Paulstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "374",
+      "street": "Pauweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "375",
+      "street": "Pestalozzistraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "376",
+      "street": "Peterstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "377",
+      "street": "Pfarrer-Claaßen-Straße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "378",
+      "street": "Pfarrer-Dederichs-Straße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "379",
+      "street": "Pfarrer-Holzberg-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "380",
+      "street": "Pfarrer-Lowis-Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "381",
+      "street": "Prof.-Max-Wilms-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "382",
+      "street": "Prof.-Mendel-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "383",
+      "street": "Prof.-Schröder-Straße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "384",
+      "street": "Prummerner Weg",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "385",
+      "street": "Püttstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "386",
+      "street": "Quimperlestraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "387",
+      "street": "Raiffeisenstraße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "388",
+      "street": "Randerather Straße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "389",
+      "street": "Rembrandtstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "390",
+      "street": "Rheinstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "391",
+      "street": "Richard-Wagner-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "392",
+      "street": "Richthofenstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "393",
+      "street": "Richtweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "394",
+      "street": "Ringstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "395",
+      "street": "Robert-Koch-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "396",
+      "street": "Römerstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "397",
+      "street": "Rommelstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "398",
+      "street": "Röntgenstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "399",
+      "street": "Rosenbenden",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "400",
+      "street": "Rosenweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "401",
+      "street": "Rückstraße",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "402",
+      "street": "Ruhrstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "403",
+      "street": "Salzweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "404",
+      "street": "Sauerbruchstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "405",
+      "street": "Scharnhorststraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "406",
+      "street": "Scheidehecke",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "407",
+      "street": "Scherpenseeler Straße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "408",
+      "street": "Schillerstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "409",
+      "street": "Schleifweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "410",
+      "street": "Schlösserkamp",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "411",
+      "street": "Schmiedgasse",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "412",
+      "street": "Schneckenweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "413",
+      "street": "Schubertstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "414",
+      "street": "Schummelshof",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "415",
+      "street": "Schützenstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "416",
+      "street": "Schwalbenweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "417",
+      "street": "Schwarzer Weg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "418",
+      "street": "Siegstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "419",
+      "street": "Sisbenden",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "420",
+      "street": "Sittarder Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "421",
+      "street": "Sperlingweg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "422",
+      "street": "Spitzwegpfad",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "423",
+      "street": "Stauffenbergstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "424",
+      "street": "Steinfeldgasse",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "425",
+      "street": "Steinkauler Hof",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "426",
+      "street": "Stettiner Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "427",
+      "street": "Stieglitzpfad",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "428",
+      "street": "Stiftsgasse",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "429",
+      "street": "Straetener Weg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "430",
+      "street": "Strippenweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "431",
+      "street": "Süggerather Straße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "432",
+      "street": "Synagogenplatz",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "433",
+      "street": "Talstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "434",
+      "street": "Tannenweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "435",
+      "street": "Taubenberg",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "436",
+      "street": "Teverener Heide",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "437",
+      "street": "Thelensgracht",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "438",
+      "street": "Thelgarten",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "439",
+      "street": "Theodor-Heuss-Ring",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "440",
+      "street": "Thomas-Mann-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "441",
+      "street": "Thomashofstraße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "442",
+      "street": "Tichelen",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "443",
+      "street": "Tichelener Weg",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "444",
+      "street": "Tizianstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "445",
+      "street": "Tongerenweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "446",
+      "street": "Töpferstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "447",
+      "street": "Trips",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "448",
+      "street": "Tripser Mühlenpfad",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "449",
+      "street": "Tripser Weg",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "450",
+      "street": "Tripsrather Feld",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "451",
+      "street": "Tulpenweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "452",
+      "street": "Turmstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "453",
+      "street": "Uetterather Weg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "454",
+      "street": "Uhlandstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "455",
+      "street": "Ulmenweg",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "456",
+      "street": "Ulweg",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "457",
+      "street": "Ursulahof",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "458",
+      "street": "Van-Gogh-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "459",
+      "street": "Vehres Jängske",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "460",
+      "street": "Veilchenweg",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "461",
+      "street": "Vennstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "462",
+      "street": "Verdistraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "463",
+      "street": "Vogteistraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "464",
+      "street": "Vom-Stein-Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "465",
+      "street": "Von-Braun-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "466",
+      "street": "Von-Bronsfeld-Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "467",
+      "street": "Von-Grimberg-Straße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "468",
+      "street": "Von-Hardenberg-Straße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "469",
+      "street": "Von-Harff-Straße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "470",
+      "street": "Von-Humboldt-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "471",
+      "street": "Von-Mirbach-Straße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "472",
+      "street": "Von-Siemens-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "473",
+      "street": "Waidmühle",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "474",
+      "street": "Walderych",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "475",
+      "street": "Waldstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "476",
+      "street": "Walloniestraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "477",
+      "street": "Wauricher Weg",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "478",
+      "street": "Weidengracht",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "479",
+      "street": "Weißenstein",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "480",
+      "street": "Welschendriesch",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "481",
+      "street": "Wielandstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "482",
+      "street": "Wiesenstraße",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "483",
+      "street": "Wilhelm-Hauff-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "484",
+      "street": "Wilhelm-Raabe-Straße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "485",
+      "street": "Windhausener Weg",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "486",
+      "street": "Winkelstraße",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "487",
+      "street": "Wolfsgracht",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "488",
+      "street": "Wupperstraße",
+      "BZ": "6",
+      "AP": "null"
+  },
+  {
+      "id": "489",
+      "street": "Wurmtalstraße",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "490",
+      "street": "Yorckstraße",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "491",
+      "street": "Zehnthofstraße",
+      "BZ": "6",
+      "AP": "II"
+  },
+  {
+      "id": "492",
+      "street": "Zeppelinstraße",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "493",
+      "street": "Ziegelbäckerweg",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "494",
+      "street": "Zu den Benden",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "495",
+      "street": "Zum Buschfeld",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "496",
+      "street": "Zum Emondtshof",
+      "BZ": "2",
+      "AP": "null"
+  },
+  {
+      "id": "497",
+      "street": "Zum Hahnhof",
+      "BZ": "4",
+      "AP": "null"
+  },
+  {
+      "id": "498",
+      "street": "Zum Hochmoor",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "499",
+      "street": "Zum Junkersbusch",
+      "BZ": "1",
+      "AP": "III"
+  },
+  {
+      "id": "500",
+      "street": "Zum Kniepbusch",
+      "BZ": "3",
+      "AP": "null"
+  },
+  {
+      "id": "501",
+      "street": "Zum Rommelschläger",
+      "BZ": "5",
+      "AP": "null"
+  },
+  {
+      "id": "502",
+      "street": "Zum Schlackenberg",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "503",
+      "street": "Zum Wassergut",
+      "BZ": "5",
+      "AP": "I"
+  },
+  {
+      "id": "504",
+      "street": "Zumdahl",
+      "BZ": "5",
+      "AP": "null"
+  }
+]

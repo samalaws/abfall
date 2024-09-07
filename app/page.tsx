@@ -53,12 +53,12 @@ export default function Home() {
                     variant={"outline"}
                     role="combobox"
                     aria-expanded={open}
-                    className="w-[300px] justify-between"
+                    className="justify-between"
                   >
                     {value ? data.find((street) => street.street === value)?.street : "Select Street"}
                   </Button>
                 </PopoverTrigger>
-                <PopoverContent className="w-[300px] p-0">
+                <PopoverContent className="p-0">
                   <Command>
                     <CommandInput placeholder="Straße auswählen" className="h-9" />
                     <CommandList>

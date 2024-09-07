@@ -42,7 +42,7 @@ export default function Home() {
   };
 
   return (
-    <div className=" flex flex-col w-4/5 mx-auto">
+    <div className="flex flex-col">
       <div>  
         <h1 className="text-2xl font-thin text-center sm:text-base">Digitaler Abfallkalender der Stadt Geilenkirchen</h1>  
       </div>

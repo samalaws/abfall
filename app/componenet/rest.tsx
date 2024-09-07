@@ -46,16 +46,13 @@ export default async function Rest({
     <>
       <div className="my-4 bg-gray-400 flex flex-row items-center justify-between rounded-sm border p-3 shadow-sm">
         <div className="flex flex-col">
-          <Label className="mb-1 text-sm font-bold">
-            Bio Kalender
-          </Label>
-          <Label className=" text-xs">
-            description of kalender
+          <Label className="text-base font-bold">
+            Restabfall
           </Label>
         </div>
         <div>
-          <h3 className="text-sm font-semibold">
-            Next appointment
+          <h3 className="text-xs font-bold">
+          Nächster Abholtermin
           </h3>
           <h1 className="font-bold text-center">
             {nextBlue}

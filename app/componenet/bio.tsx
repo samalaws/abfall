@@ -28,13 +28,12 @@ export default async function Bio({chosenBZ}: BZ) {
   
   return (
     <>
-      <div className="my-4 bg-amber-500 flex flex-row items-center justify-between rounded-sm border p-3 shadow-sm">
+      <div className="my-4 bg-amber-700 flex flex-row items-center justify-between rounded-sm border p-3 shadow-sm">
         <div className="flex flex-col">
-            <Label className="mb-1 text-sm font-bold">Bio Kalender</Label>
-            <Label className=" text-xs">description of kalender</Label>
+            <Label className="text-base font-semibold">Bioabfall</Label>
         </div>
         <div>
-            <h3 className="text-sm font-semibold">Next appointment</h3>
+            <h3 className="text-xs font-bold">Nächster Abholtermin</h3>
             <h1 className="font-bold text-center">{nextBio}</h1>
         </div>
       </div>

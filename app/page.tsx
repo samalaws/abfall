@@ -4,6 +4,7 @@ import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, Command
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { cn } from "@/lib/utils";
 import {  CheckIcon } from "@radix-ui/react-icons";
+import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 
 
@@ -18,6 +19,8 @@ export default function Home() {
   const [open, setOpen] = useState(false);
   const [value, setValue] = useState("");
   const [data, setData] = useState<Street[]>([]);
+  const router = useRouter();
+
 
 
   useEffect(() => {
@@ -33,8 +36,13 @@ export default function Home() {
     loadStreets();
   }, []);
 
+  const handleWeiterClick = () => {
+    // Navigate to 'info' page with the selected street as a query parameter
+    router.push(`/info?value=${encodeURIComponent(value)}`);
+  };
+
   return (
-    <div className="w-4/5 mx-auto">
+    <div className=" flex flex-col w-4/5 mx-auto">
       <div>  
         <h1 className="text-2xl font-thin text-center sm:text-base">Digitaler Abfallkalender der Stadt Geilenkirchen</h1>  
       </div>
@@ -81,7 +89,9 @@ export default function Home() {
               </PopoverContent>
             </Popover>
         </form>
-        
+        <Button  className="ml-5 w-full" variant="default" onClick={handleWeiterClick}>
+            Weiter
+        </Button>
       </div>
     </div>  
   );

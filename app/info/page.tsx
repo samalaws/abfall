@@ -67,7 +67,7 @@ export default async function Info({
             Development works
           </h1>
         </div>
-        <div className="justify-center mx-auto">
+        <div className="pt-10 justify-center mx-auto">
           <Card className="w-[380px] mt-5 ">
             <CardHeader className="flex flex-row justify-between">
               <div className="justify-center text-center mx-auto">

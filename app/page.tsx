@@ -1,12 +1,17 @@
-"use client"
+"use client";
+import { z } from "zod"; // Import Zod
 import { Button } from "@/components/ui/button";
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@/components/ui/command";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { cn } from "@/lib/utils";
-import {  CheckIcon } from "@radix-ui/react-icons";
+import { CheckIcon } from "@radix-ui/react-icons";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 
+// Define your Zod schema
+const schema = z.object({
+  street: z.string().nonempty("Straße ist erforderlich"), // Ensures street is not empty
+});
 
 interface Street {
   id: number;
@@ -20,13 +25,15 @@ export default function Home() {
   const [value, setValue] = useState("");
   const [data, setData] = useState<Street[]>([]);
   const router = useRouter();
-
-
+  
+  // State to hold errors and form values
+  const [formValues, setFormValues] = useState({ street: "" });
+  const [errors, setErrors] = useState<{ street?: string }>({});
 
   useEffect(() => {
     const loadStreets = async () => {
       try {
-        const response = await fetch('./api/streets'); // Corrected path
+        const response = await fetch('./api/streets');
         const data: Street[] = await response.json();
         setData(data);
       } catch (error) {
@@ -37,8 +44,26 @@ export default function Home() {
   }, []);
 
   const handleWeiterClick = () => {
-    // Navigate to 'info' page with the selected street as a query parameter
-    router.push(`/info?value=${encodeURIComponent(value)}`);
+    // Validate the form
+    try {
+      schema.parse(formValues); // This will throw if validation fails
+      // Navigate to 'info' page with the selected street as a query parameter
+      router.push(`/info?value=${encodeURIComponent(value)}`);
+    } catch (error) {
+      if (error instanceof z.ZodError) {
+        const formattedErrors: { street?: string } = {};
+        error.errors.forEach((issue) => {
+          formattedErrors[issue.path[0] as keyof typeof formattedErrors] = issue.message;
+        });
+        setErrors(formattedErrors); // Set errors to state
+      }
+    }
+  };
+
+  const handleStreetSelect = (selectedValue: string) => {
+    setValue(selectedValue);
+    setOpen(false);
+    setFormValues({ street: selectedValue }); // Update form values on selection
   };
 
   return (
@@ -73,11 +98,7 @@ export default function Home() {
                         <CommandItem
                           key={street.id}
                           value={street.street}
-                          onSelect={(selectedValue) => {
-                            setValue(selectedValue);
-                            setOpen(false);
-                          }
-                        }
+                          onSelect={handleStreetSelect}
                         >
                           {street.street}
                           <CheckIcon
@@ -94,6 +115,7 @@ export default function Home() {
               </PopoverContent>
             </Popover>
           </form>
+          {errors.street && <p className="text-red-500 font-thin text-xs mt-1">{errors.street}</p>} {/* Error message */}
           <Button 
             className="mt-5 w-full py-3 sm:py-2 md:py-3 lg:py-4 text-sm md:text-base lg:text-lg" 
             variant="default" 
@@ -104,6 +126,5 @@ export default function Home() {
         </div>
       </div>
     </div>
-
   );
 }

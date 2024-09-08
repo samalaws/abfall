@@ -51,11 +51,7 @@ export default function Home() {
       </div>
       
       <div className="mt-10 flex flex-col w-full sm:w-3/4 md:w-2/3 lg:w-1/2">
-        <Label className="py-5 font-thin text-center text-sm md:text-base lg:text-lg">
-          Bitte eine Straße auswählen
-        </Label>
-
-        <div className="w-full">
+        <div className="w-[280px] mx-auto">
           <form onSubmit={(e) => e.preventDefault()}>
             <Popover open={open} onOpenChange={setOpen}>
               <PopoverTrigger asChild>
@@ -65,12 +61,12 @@ export default function Home() {
                   aria-expanded={open}
                   className="w-full py-4 sm:py-3 md:py-4 lg:py-5 justify-between text-sm md:text-base lg:text-lg"
                 >
-                  {value ? data.find((street) => street.street === value)?.street : "Select Street"}
+                  {value ? data.find((street) => street.street === value)?.street : "Eine Straße auswählen"}
                 </Button>
               </PopoverTrigger>
-              <PopoverContent className="w-full">
+              <PopoverContent className="w-[280px]">
                 <Command>
-                  <CommandInput placeholder="Straße auswählen" className="h-9 text-sm md:text-base" />
+                  <CommandInput placeholder="Straße auswählen" className=" w-full h-9 text-sm md:text-base" />
                   <CommandList>
                     <CommandEmpty>Keine Straßen gefunden</CommandEmpty>
                     <CommandGroup>
@@ -81,7 +77,8 @@ export default function Home() {
                           onSelect={(selectedValue) => {
                             setValue(selectedValue);
                             setOpen(false);
-                          }}
+                          }
+                        }
                         >
                           {street.street}
                           <CheckIcon

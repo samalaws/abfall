@@ -1,7 +1,7 @@
 export default function Trennen() {
   return (
     <div className="min-h-screen   flex items-center justify-center">
-      <div className="p-8 border-gray-500 border-2 rounded-s-lg shadow-lg max-w-4xl w-full">
+      <div className="p-8  shadow-lg max-w-4xl w-full">
         <h1 className="text-3xl font-bold text-center mb-8 text-green-600">
           Mülltrennung: Was ist richtig,
           was falsch?

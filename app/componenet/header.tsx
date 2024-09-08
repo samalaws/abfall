@@ -22,6 +22,9 @@ export default function Header() {
           <Link href="/" passHref className="text-xl font-thin hover:text-gray-400 transition">
             Home
           </Link>
+          <Link href="/trennen" passHref className="text-xl font-thin hover:text-gray-400 transition">
+            Info
+          </Link>
           <Link href="/impressum" passHref className="text-xl font-thin hover:text-gray-400 transition">
             Impressum
           </Link>

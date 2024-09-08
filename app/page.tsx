@@ -63,13 +63,12 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col mt-5 items-center px-4 sm:px-2 md:px-6 lg:px-8">
-      <div className="w-full">  
+    <div className=" flex flex-col items-center justify-center px-4 sm:px-2 md:px-6 lg:px-8">
+      <div className="w-full h-full">  
         <h1 className="text-2xl font-thin text-center sm:text-xl md:text-lg lg:text-2xl">
           Digitaler Abfallkalender der Stadt Geilenkirchen
         </h1>  
       </div>
-      
       <div className="mt-10 flex flex-col w-full sm:w-3/4 md:w-2/3 lg:w-1/2">
         <div className="w-[280px] mx-auto">
           <form onSubmit={(e) => e.preventDefault()}>

@@ -30,7 +30,7 @@ export default function Header() {
           </div>
         </nav>
       </header>
-      <div className="border-b border-gray-700 mt-5" />
+      <div className="border-b border-gray-700 sm:my-10"/>
     </>
     
   );

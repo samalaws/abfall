@@ -25,8 +25,6 @@ export default function Home() {
   const [value, setValue] = useState("");
   const [data, setData] = useState<Street[]>([]);
   const router = useRouter();
-  
-  // State to hold errors and form values
   const [formValues, setFormValues] = useState({ street: "" });
   const [errors, setErrors] = useState<{ street?: string }>({});
 
@@ -44,10 +42,8 @@ export default function Home() {
   }, []);
 
   const handleWeiterClick = () => {
-    // Validate the form
     try {
-      schema.parse(formValues); // This will throw if validation fails
-      // Navigate to 'info' page with the selected street as a query parameter
+      schema.parse(formValues); 
       router.push(`/info?value=${encodeURIComponent(value)}`);
     } catch (error) {
       if (error instanceof z.ZodError) {
@@ -55,7 +51,7 @@ export default function Home() {
         error.errors.forEach((issue) => {
           formattedErrors[issue.path[0] as keyof typeof formattedErrors] = issue.message;
         });
-        setErrors(formattedErrors); // Set errors to state
+        setErrors(formattedErrors);
       }
     }
   };
@@ -115,7 +111,7 @@ export default function Home() {
               </PopoverContent>
             </Popover>
           </form>
-          {errors.street && <p className="text-red-500 font-thin text-xs mt-1">{errors.street}</p>} {/* Error message */}
+          {errors.street && <p className="text-red-500 font-thin text-xs mt-1">{errors.street}</p>}
           <Button 
             className="mt-5 w-full py-3 sm:py-2 md:py-3 lg:py-4 text-sm md:text-base lg:text-lg" 
             variant="default" 

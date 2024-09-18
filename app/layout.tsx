@@ -39,7 +39,7 @@ export default function RootLayout({
         <Head>
           <title>{metadata.title}</title>
           <meta name="description" content={metadata.description} />
-          <meta name="keywords" content="Abfall, Abfallwirtschaft, Recycling, Umwelt, Entsorgung" />
+          <meta name="keywords" content="Abfall, Abfallwirtschaft, Recycling, Umwelt, Entsorgung, Abholtermine, Abfallkalender, Geilenkirchen " />
           <meta name="author" content="Samer Alaws" />
           <meta property="og:title" content={metadata.title} />
           <meta property="og:description" content={metadata.description} />

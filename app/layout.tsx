@@ -4,6 +4,7 @@ import "./globals.css";
 import { ThemeProvider } from "../components/theme-provider";
 import Footer from "./componenet/footer";
 import Header from "./componenet/header";
+import { Analytics } from "@vercel/analytics/react"
 
 interface Metadata {
   title: string;
@@ -57,7 +58,10 @@ export default function RootLayout({
           >
             <div className="w-4/5 mx-auto flex flex-col min-h-screen ">
               <Header />
-              <main className="my-10 flex-1">{children}</main>
+              <main className="my-10 flex-1">
+                {children}
+                <Analytics />
+                </main>
               <Footer />
             </div>
           </ThemeProvider>

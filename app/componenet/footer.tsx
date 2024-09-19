@@ -57,7 +57,7 @@ export default function Footer() {
         <p className="text-center text-sm text-gray-400">
           &copy;{" "}
           {new Date().getFullYear()}{" "}
-          SamerAlaws. Alle Rechte vorbehalten.
+          SamerAlaws.
         </p>
       </div>
     </footer>

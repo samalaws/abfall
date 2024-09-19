@@ -49,11 +49,7 @@ export default async function Info({
               <ChevronLeft className="w-5 h-5" />
             </Link>
           </Button>
-          <h1 className="text-lg md:text-xl lg:text-2xl font-semibold tracking-tight pt-1">
-            Development works
-          </h1>
         </div>
-
         {/* Card Section */}
         <div className="flex justify-center pt-10">
           <Card className="w-full max-w-[380px] lg:max-w-[500px]">
@@ -74,7 +70,6 @@ export default async function Info({
               <h1 className="text-base lg:text-lg text-center">
                 {"Ihre Bezirksnummer: "} {matchingStreet?.BZ || "Nicht verfügbar"}
               </h1>
-
               {/* Client Components */}
               <div className="mt-4 space-y-4">
                 <Yellow chosenBZ={chosenBZ} setChosenBZ={() => {}} />
@@ -88,9 +83,4 @@ export default async function Info({
       </div>
     </>
   );
-}
-
-// Enable server-side data fetching
-export async function generateStaticParams() {
-  return [];
 }

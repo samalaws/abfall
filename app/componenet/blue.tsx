@@ -1,6 +1,6 @@
 import path from "path";
 import fs from "fs";
-import { getTodayDate } from "@/lib/action";
+import { getNextDate } from "@/lib/action";
 import { Label } from "@/components/ui/label";
 import Link from "next/link";
 
@@ -15,17 +15,14 @@ export default async function Blue({chosenBZ}: BZ) {
   const filePath = path.join(process.cwd(), 'data/altpapier.json');
   const fileContents = await fs.promises.readFile(filePath, 'utf8');
   const blueAbfall = JSON.parse(fileContents);
-  const todayData = getTodayDate();
+  const todayData: string = new Date().toLocaleDateString("de-DE");
 
-  const mathingBlue = blueAbfall.find((s: { BZ: number; }) => {
+  const matchingBlue = blueAbfall.find((s: { BZ: number; }) => {
     if (s.BZ == chosenBZ) {
       return s;
     }    
   });
-  const nextBlue = mathingBlue?.Datum
-  .filter((datum: string) => datum >= todayData)  // Filter dates
-  .sort()                                         // Sort dates in ascending order
-  .at(0);
+  const nextBlue = getNextDate(todayData, matchingBlue.Datum);
   
   return (
     <>

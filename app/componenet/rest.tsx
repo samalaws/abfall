@@ -1,6 +1,6 @@
 import path from "path";
 import fs from "fs";
-import { getTodayDate } from "@/lib/action";
+import { getNextDate } from "@/lib/action";
 import { Label } from "@/components/ui/label";
 import Link from "next/link";
 
@@ -23,12 +23,12 @@ export default async function Rest({
       filePath,
       "utf8"
     );
-  const blueAbfall = JSON.parse(
+  const restAbfall = JSON.parse(
     fileContents
   );
-  const todayData = getTodayDate();
+  const todayData: string = new Date().toLocaleDateString("de-DE");
 
-  const mathingBlue = blueAbfall.find(
+  const matchingRest = restAbfall.find(
     (s: { BZ: number }) => {
       if (s.BZ == chosenBZ) {
         return s;
@@ -36,12 +36,7 @@ export default async function Rest({
     }
   );
   const nextBlue =
-    mathingBlue?.Datum.filter(
-      (datum: string) =>
-        datum >= todayData
-    ) // Filter dates
-      .sort() // Sort dates in ascending order
-      .at(0);
+    getNextDate(todayData, matchingRest.Datum);
 
   return (
     <>

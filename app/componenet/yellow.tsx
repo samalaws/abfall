@@ -1,8 +1,8 @@
 import path from "path";
 import fs from 'fs';
-import { getTodayDate } from "@/lib/action";
 import { Label } from "@/components/ui/label";
 import Link from "next/link";
+import { getNextDate } from "@/lib/action";
 
 interface BZ {
   chosenBZ: number;
@@ -15,17 +15,14 @@ export default async function Yellow( {chosenBZ, setChosenBZ}: BZ) {
   const filePath = path.join(process.cwd(), 'data/Leichtverpackungen.json');
   const fileContents = await fs.promises.readFile(filePath, 'utf8');
   const yellowAbfall = JSON.parse(fileContents);
-  const todayData = getTodayDate();
+  const todayData: string = new Date().toLocaleDateString("de-DE");
 
-  const mathingYellow = yellowAbfall.find((s: { BZ: number; }) => {
+  const matchingYellow = yellowAbfall.find((s: { BZ: number; }) => {
     if (s.BZ == chosenBZ) {
       return s;
     }
   });
-  const nextYellow = mathingYellow?.Datum
-  .filter((datum: string) => datum >= todayData)  // Filter dates
-  .sort()                                         // Sort dates in ascending order
-  .at(0);                                         // Get the first matching date
+  const nextYellow = getNextDate(todayData, matchingYellow.Datum);                             // Get the first matching date
   
   return (
     <>

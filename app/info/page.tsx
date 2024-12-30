@@ -1,9 +1,6 @@
 import {
   Card,
   CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
 } from "@/components/ui/card";
 import fs from "fs";
 import path from "path";
@@ -53,17 +50,7 @@ export default async function Info({
         {/* Card Section */}
         <div className="flex justify-center pt-10">
           <Card className="w-full max-w-[380px] lg:max-w-[500px]">
-            <CardHeader className="text-center">
-              <div className="mx-auto">
-                <CardTitle className="text-lg md:text-xl lg:text-2xl font-bold">
-                  Abfallkalender
-                </CardTitle>
-                <CardDescription className="text-sm md:text-base">
-                  der Stadt Geilenkirchen
-                </CardDescription>
-              </div>
-            </CardHeader>
-            <CardContent>
+            <CardContent className="py-4">
               <h1 className="text-base lg:text-lg text-center font-bold">
                 {"Ihre Straße: "} {matchingStreet?.street || "Nicht gefunden"}
               </h1>

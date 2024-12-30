@@ -20,7 +20,7 @@ export default function Imressum() {
               E-Mail: <a href="mailto:contact@alaws.de" className="underline hover:text-blue-300">contact@alaws.de</a><br />
             </p>
             <p className="font-thin mb-4">
-              Alle Daten und Straßeninformationen in dieser App stammen von der offiziellen Website der  <Link 
+              Alle Daten und Straßeninformationen in dieser App stammen von der offiziellen Abfallkalender der  <Link 
                     href="https://www.geilenkirchen.de/rathaus/online-dienstleistungen-und-andere-angebote/abfallkalender/" 
                     className="font-bold underline hover:text-blue-300">Stadt Geilenkirchen</Link>
                     .

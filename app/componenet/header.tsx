@@ -6,26 +6,19 @@ export default function Header() {
     <>
       <header className="min-h-32 flex flex-col sm:flex-row items-center justify-between p-4">
         <div className="flex items-center mb-4 sm:mb-0">
-          <Link
-            href="https://www.alaws.de"
-            passHref
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-2xl font-thin hover:underline"
-          >
             <h1>
-              Samer<span className="font-bold">Alaws</span>
+              <span className="font-bold text-base"> Abfallkalender 2025 </span>
+              <span className="font-thin text-base"> Stadt Geilenkirchen</span>
             </h1>
-          </Link>
         </div>
         <nav className="flex flex-col sm:flex-row justify-end items-center space-y-4 sm:space-y-0 sm:space-x-8">
-          <Link href="/" passHref className="text-xl font-thin hover:text-gray-400 transition">
+          <Link href="/" passHref className=" font-thin hover:text-gray-400 transition">
             Home
           </Link>
-          <Link href="/trennen" passHref className="text-xl font-thin hover:text-gray-400 transition">
+          <Link href="/trennen" passHref className=" font-thin hover:text-gray-400 transition">
             Info
           </Link>
-          <Link href="/impressum" passHref className="text-xl font-thin hover:text-gray-400 transition">
+          <Link href="/impressum" passHref className=" font-thin hover:text-gray-400 transition">
             Impressum
           </Link>
           <div className="ml-4">

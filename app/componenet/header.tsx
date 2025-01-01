@@ -6,7 +6,7 @@ export default function Header() {
     <>
       <header className="min-h-32 flex flex-col sm:flex-row items-center justify-between p-4">
         <div className="flex items-center mb-4 sm:mb-0">
-            <h1>
+            <h1 className="flex flex-col items-center">
               <span className="font-bold text-base"> Abfallkalender 2025 </span>
               <span className="font-thin text-base"> Stadt Geilenkirchen</span>
             </h1>
